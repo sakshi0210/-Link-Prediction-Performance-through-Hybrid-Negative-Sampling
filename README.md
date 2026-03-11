@@ -37,7 +37,7 @@ This project proposes and implements **Hybrid Negative Sampling**, a novel exten
 | Dense | 0.923 | **0.980** | 0.998 | 0.999 |
 
 <img width="364" height="200" alt="Image" src="https://github.com/user-attachments/assets/204f734e-f0d8-4ddf-8a60-68f23d852218" />
-<img width="969" height="342" alt="Image" src="https://github.com/user-attachments/assets/26aa59bd-9e82-4c5f-a0a0-3c64f4a5dcab" />
+
 <img width="1141" height="688" alt="Image" src="https://github.com/user-attachments/assets/87ae94b7-65b5-437b-a261-54545b67f3f2" />
 
 ### Key Findings
